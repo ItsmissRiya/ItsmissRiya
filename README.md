@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsmissRiya
 - 👀 I’m interested in Web Development and exploring tech field.
 - 🧠 I'm good with html,css,C-language.
-- 🌱 I’m currently learning Web Development and DSA.
+- 🌱 I’m currently learning Web Development .
 - 💞️ I’m looking to collaborate with people who support me to grow and learn.
 - 📫 How to reach me :Mail ID: miss.riyajaiswal251003@gmail.com 
 
