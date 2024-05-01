@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsmissRiya
-- 👀 I’m interested in Web Development and exploring tech field.
-- 🧠 I'm good with html,css,C-language,creative thinking ,designing.
-- 🌱 I’m currently into App/Web Development .
+- 👀 I’m interested in App Development and exploring tech field.
+- 🧠 I'm good with creative thinking ,designing.
+- 🌱 I’m currently into App Development using RN .
 - 💞️ I’m looking to collaborate with people who support me to grow and learn.
 - 📫 How to reach me :Mail ID: miss.riyajaiswal251003@gmail.com 
 
